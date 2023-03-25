@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "113437389743",
+    "project_id": "forcequit-3c0cd",
+    "storage_bucket": "forcequit-3c0cd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:113437389743:android:e4427b5d3f0dbb16eaf55a",
+        "android_client_info": {
+          "package_name": "com.example.quit_force"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "113437389743-lc5eu334e5r4fi1jhquo4c15moh52vs5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6l8ueHMSvonMUqpARfMDNgA9umxwwvqc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "113437389743-lc5eu334e5r4fi1jhquo4c15moh52vs5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

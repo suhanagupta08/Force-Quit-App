@@ -1,0 +1,10 @@
+# This is a generated file; do not edit or check into version control.
+cloud_firestore=/Users/suhanagupta/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/cloud_firestore-0.12.11/
+firebase_auth=/Users/suhanagupta/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_auth-0.14.0+9/
+firebase_core=/Users/suhanagupta/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_core-0.4.5/
+firebase_core_web=/Users/suhanagupta/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_core_web-0.1.1+2/
+flutter_plugin_android_lifecycle=/Users/suhanagupta/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_plugin_android_lifecycle-1.0.11/
+geolocator=/Users/suhanagupta/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/geolocator-3.0.0/
+google_api_availability=/Users/suhanagupta/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/google_api_availability-1.0.6/
+google_maps_flutter=/Users/suhanagupta/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/google_maps_flutter-1.2.0/
+permission_handler=/Users/suhanagupta/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/permission_handler-2.2.0/
